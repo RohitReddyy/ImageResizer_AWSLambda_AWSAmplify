@@ -1,0 +1,17 @@
+{
+  "resourceName": "imageresizer8139044",
+  "policyUUID": "2b51b9ed",
+  "bucketName": "imageresizec28ce625755e4e7c94dbce86a696bd72",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Triggerb12b77ba",
+  "groupAccess": {}
+}
